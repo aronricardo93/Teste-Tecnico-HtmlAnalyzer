@@ -91,11 +91,12 @@ uso de boas práticas de programação e design de software orientado a objetos.
 ## 💻Rodar o projeto
 ⚠️**Observação:** `É necessário ter o JDK(Java Development Kit) instalado na máquina`
 
-- Descompacte a o arquivo `Aron_Ricardo_Santana_Ribeiro.tar` usando o comando: `tar -xzf projetos.tar.gz` 
+- Descompacte a o arquivo `Aron_Ricardo_Santana_Ribeiro.tar` usando o comando: `tar -xzf Aron_Ricardo_Santana_Ribeiro.tar` 
 
 - Abrir o terminal e usar o comando `javac HtmlAnalyzer.java` para compilar o arquivo e gerar o bytecode(.class)
 
-- Com o terminal ainda em execução, digitar o comando `java HtmlAnalyzer insira-a-url-pretendida`
+- Com o terminal ainda em execução, digitar o comando `java HtmlAnalyzer insira-a-url-pretendida
+  (Exemplo: java HtmlAnalyzer http://hiring.axreng.com/internship/example1.html)
 
 
 
